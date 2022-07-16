@@ -6,7 +6,7 @@ Github Repos for Drei Managed three to JSX conversion
 https://github.com/persephonepunch/sabaReact3
 https://drei.pmnd.rs/
 https://pmnd.rs/
-https://gltf-viewer.donmccurdy.com/
+
 https://codesandbox.io/
 
 ##Blender is a free tool that will generate GLBs
